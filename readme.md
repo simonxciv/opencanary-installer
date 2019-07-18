@@ -1,6 +1,5 @@
 # OpenCanary Installation and Configuration Wrapper
 
-## About
 [OpenCanary](https://github.com/thinkst/opencanary) is a configurable open-source honeypot solution provided by Thinkst. This wrapper script helps install and configure your OpenCanary appliance using sane defaults, including:
 
 - Setting the device's hostname
