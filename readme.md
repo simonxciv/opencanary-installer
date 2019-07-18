@@ -14,6 +14,9 @@
 - Network connection
 
 ## Installation Instructions
+
+For more detailed installation instructions, see [my post](https://smnbkly.co/blog/opencanary-free-flexible-distributed-honeypot).
+
 1. Copy or download the 'opencanary-installer.sh' to your home directory
 2. Modify the permissions of the file to allow execution using `sudo chmod +x opencanary-installer.sh`
 3. Run the installer using `sudo ./opencanary-installer.sh`
